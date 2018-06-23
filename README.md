@@ -140,6 +140,7 @@ Signed,
 1.  Lisa Lamontagne [@llamontagne](https://github.com/llamontagne)
 1.  Lowell Kissling [@lrkissling](https://github.com/lrkissling)
 1.  Luke Cashion-Lozell [@lukeacl](https://github.com/lukeacl)
+1.  Lucio Nieto [@LucNieto](https://github.com/LucNieto)
 1.  Maaz Khan [@maazkhan](https://github.com/maazkhan)
 1.  Manuel Sánchez [@manasv](https://github.com/manasv)
 1.  Marc Hinse [@MadeMyDay](https://github.com/MadeMyDay)
